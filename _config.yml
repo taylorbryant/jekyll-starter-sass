@@ -1,0 +1,16 @@
+title: Sass Jekyll Starter
+description: A starter kit for using Sass with Jekyll
+
+compress_html:
+  clippings: all
+  comments:  ["<!-- ", " -->"]
+  endings:   all
+
+exclude:
+  - _sass
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - node_modules
+  - package.json
+  - package-lock.json

@@ -29,3 +29,5 @@ A starter kit for using [Sass](http://sass-lang.com/) with [Jekyll](https://jeky
 * `bundle install` to install Ruby gems
 * `npm install` to install npm packages
 * `gulp` to run the default Gulp task
+
+Inspired by [@shakyShane](https://github.com/shakyShane)'s [jekyll-gulp-sass-browser-sync](https://github.com/shakyShane/jekyll-gulp-sass-browser-sync).

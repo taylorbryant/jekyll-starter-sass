@@ -31,3 +31,6 @@ A starter kit for using [Sass](http://sass-lang.com/) with [Jekyll](https://jeky
 * `gulp` to run the default Gulp task
 
 Inspired by [@shakyShane](https://github.com/shakyShane)'s [jekyll-gulp-sass-browser-sync](https://github.com/shakyShane/jekyll-gulp-sass-browser-sync).
+
+## License
+[MIT](https://github.com/taylorbryant/sass-jekyll/blob/master/LICENSE.md)

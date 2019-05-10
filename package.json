@@ -1,6 +1,6 @@
 {
   "name": "sass-jekyll",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "A starter kit for using Sass with Jekyll",
   "main": "gulpfile.js",
   "devDependencies": {
@@ -8,7 +8,7 @@
     "babel-register": "6.26.0",
     "browser-sync": "2.26.5",
     "gulp": "4.0.2",
-    "gulp-autoprefixer": "4.1.0",
+    "gulp-autoprefixer": "6.1.0",
     "gulp-clean-css": "3.10.0",
     "gulp-sass": "4.0.2",
     "gulp-util": "3.0.8"
